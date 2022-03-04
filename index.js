@@ -209,7 +209,7 @@ async function init() {
         
         const markdown = generateMarkdown(data);
         console.log("Here's that README.");
-        await writeToFile('ExREADME.md', markdown);
+        await writeToFile('README.md', markdown);
     }    catch(err) {
         console.log(err)
     }

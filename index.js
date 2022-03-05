@@ -178,7 +178,7 @@ const questions = [
             type: 'list',
             name: 'license',
             message: 'Choose which license type you want to use.',
-            choices: ['MITT', 'GLA', 'N/A'],
+            choices: ['MIT', 'Apache', 'IBM', 'N/A'],
         },
 
     ];

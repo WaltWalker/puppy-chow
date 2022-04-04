@@ -32,7 +32,7 @@ press enter
 
 ex
  
-<img src='./assets/images/doggy.jpg' alt = './assets/images/doggy.jpg'/>
+<img src='./assets/images/doggy.jpg' alt = 'doggy'/>
 
 ## Credits
 

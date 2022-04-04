@@ -123,7 +123,7 @@ const questions = [
         {
             type: 'input',
             name: 'use',
-            message: 'How do we even use this?',
+            message: 'Can you describe how it can be used?',
             validate: useInput => {
                 if (useInput) {
                     return true;

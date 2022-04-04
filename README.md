@@ -1,4 +1,4 @@
-# asfgd
+# Puppy Chow
 
 ## Decription
 
@@ -8,45 +8,45 @@
 
 What was the motivation behind this project?
 
-dsfh
+to do good
 
 Why did you build this?
 
-sadfhg
+for world peace
 
 What problem does it solve?
 
-agds
+world hunger
 
 What did you learn from this experience?
 
-gasagsd
+coding
 
 ## Installation
 
-Project Link - hashesa
+Project Link - as@github.com
 
-sdag
+press enter
 
 ## Usage
 
-sgag
+ex
  
-<img src='./assets/images/doggy.jpg' alt = 'doggy'/>
+<img src='./assets/images/doggy.jpg' alt = './assets/images/doggy.jpg'/>
 
 ## Credits
 
 My Information:
 
-Github - ga 
+Github - WaltWalker 
 
-E-mail - dhs
+E-mail - wcmwalker@gmail.com
 
 Team members in collaboration:
 
-
+none
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
